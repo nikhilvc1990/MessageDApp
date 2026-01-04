@@ -9,9 +9,8 @@ module.exports = {
     },
     hardhat: {
       accounts: {
-        mnemonic: "crowd bulb arctic evolve liar sponsor appear thank asthma fame achieve toilet",
-        count: 10,
-        initialIndex: 0, 
+        mnemonic: "slot amount waste sense nothing lawsuit muscle course water mobile candy struggle",
+        count: 10, 
         accountsBalance: "900000000000000000000000",
       },
     },
@@ -21,3 +20,4 @@ module.exports = {
     // }
   }
 };
+
