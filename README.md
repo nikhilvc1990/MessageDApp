@@ -41,7 +41,7 @@ contract WelcomeDevelopers {
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sumimaria/MessageDApp.git
+git clone https://github.com/nikhilvc1990/MessageDApp.git
 cd MessageDApp
 
 ``` 
