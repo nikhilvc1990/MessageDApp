@@ -10,7 +10,8 @@ module.exports = {
     hardhat: {
       accounts: {
         mnemonic: "slot amount waste sense nothing lawsuit muscle course water mobile candy struggle",
-        count: 10, 
+        count: 10,
+        initialIndex: 0, 
         accountsBalance: "900000000000000000000000",
       },
     },
